@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/55728123/222226307-210855f2-4f28-42c6-9e39-1a2508a8c0da.mov
+https://user-images.githubusercontent.com/55728123/222228203-9907e0a5-4a63-430b-8f76-75172ca36705.mov
 
 ## Notes
 
